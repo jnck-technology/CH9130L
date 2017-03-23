@@ -18,3 +18,5 @@ CH9130是一款用于以太网络扩展多外设接口的芯片，内置10/100M�
 物联网、工业自动化、公共服务终端、城市交通管理、医疗保健、智能家居。
 ## 推荐采购
 [CH9130L](http://www.szlcsc.com/product/details_98588.html)
+## 相关资料下载
+链接: [https://pan.baidu.com/s/1qYe18AC](https://pan.baidu.com/s/1qYe18AC ) 密码: edwi
